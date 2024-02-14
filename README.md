@@ -10,3 +10,4 @@
 --------
 Итог ответа на запрос вывода badstudents
 ![image](https://github.com/KNO110/Borrowed_books/assets/37769458/7f654214-70e1-4a57-9c0e-b3d92a46a24a)
+![bee47d820a8169dafb4d2ec7bd9d58cd](https://github.com/KNO110/Borrowed_books/assets/37769458/80e7a3ea-d69a-4435-b8e6-77d2cc1bf80e)
