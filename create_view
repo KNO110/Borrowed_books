@@ -1,0 +1,12 @@
+CREATE VIEW BadStudents AS
+SELECT
+    s.first_name,
+    s.last_name
+FROM
+    Students s
+JOIN
+    Books b ON s.student_id = b.student_id
+WHERE
+    b.returned_date IS NULL;
+
+---------Представление двух таблиц, вывод тех кто не вернул книги, по имени фамилия
