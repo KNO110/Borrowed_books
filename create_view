@@ -1,3 +1,5 @@
+---ЭТО QUERY
+
 CREATE VIEW BadStudents AS
 SELECT
     s.first_name,
